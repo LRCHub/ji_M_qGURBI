@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "COLORS (Album Mix)",
+  "base_artist": "FLOW",
+  "createdAt": "2026-02-13T05:45:34.060681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "COLORS (Album Mix)",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_COLORS_(Album_Mix)_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "COLORS (album mix)",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/02_COLORS_(album_mix)_FLOW.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "COLORS 〜Album Mix〜",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/03_COLORS_〜Album_Mix〜_FLOW.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COLORS(Album Mix)",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_COLORS(Album_Mix)_FLOW.txt"
+    }
+  ]
+}
